@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042697993335",
+    "project_id": "social-media-app-f30e3",
+    "storage_bucket": "social-media-app-f30e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042697993335:android:f8bacfac838b039338da72",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHdJp1z0ddlGgsLe8tmkvcIn-amnRjd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
